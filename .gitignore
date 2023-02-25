@@ -130,3 +130,6 @@ dmypy.json
 
 *.mp3
 *.m3u8
+analysis/labels.py
+analysis/labels.py.1
+models
