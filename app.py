@@ -5,7 +5,7 @@ import pandas as pd
 
 
 m3u_filepaths_file = 'playlists/streamlit.m3u8'
-ESSENTIA_ANALYSIS_PATH = 'data/descriptors.csv'
+ESSENTIA_ANALYSIS_PATH = 'analysis/descriptors.csv'
 
 
 st.write('# Audio analysis playlists')
